@@ -14,6 +14,8 @@ This repository contains a series of lab exercises exploring concurrency pattern
 |---|-------|
 | 1 | Barrier |
 | 2 | Reusable Barrier |
+| 3 | Dining Philosophers Problem |
+| 4 | Producer Consumer |
 
 ---
 
